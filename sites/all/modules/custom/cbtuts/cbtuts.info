@@ -1,0 +1,4 @@
+name = CB Tuts
+description = The CB Tuts module, for custom site code and settings, including Features and Update scripts.
+package = Comic Book Tutorials
+core = 7.x
