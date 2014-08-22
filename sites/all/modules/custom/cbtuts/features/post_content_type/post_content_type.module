@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Post - content type feature.
+ */
+
+include_once 'post_content_type.features.inc';
